@@ -19,7 +19,7 @@
   "homepage": "https://github.com/blakshep1981/Hot-Restaurant#readme",
   "dependencies": {
     "-": "0.0.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "save": "^2.4.0"
   }
 }
